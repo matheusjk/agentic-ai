@@ -23,3 +23,6 @@ dist/
 
 # Ignore logs
 logs/
+
+#Ignore uv.lock
+uv.lock
